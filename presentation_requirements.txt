@@ -1,0 +1,11 @@
+excutive summary
+introduction
+data collection and wrangling methodology
+interactive visual analytics methodology
+predictive analysis methodology
+EDA with visualization results
+EDA with SQL results
+interactive map with Folium-related
+Plotly Dash-related
+predictive analysis result
+Conclusion
